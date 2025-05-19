@@ -7,7 +7,7 @@
 ## How to Install
 
 1. Download the `Perfect Shot.ahk` script.
-2. Open `Perfect Shot.ahk` Shot.
+2. Open `Perfect Shot.ahk`
 3. Assign the key you want to trigger the shot (note: **do NOT use `E`** — that’s the default shoot key in Basketball Legends).
 Note: No need to install the AutoHotkey setup if you have AutoHotkey installed already
 ---
